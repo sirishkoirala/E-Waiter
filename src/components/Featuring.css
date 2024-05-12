@@ -1,0 +1,24 @@
+.featuringPhoto {
+   display: flex;
+   justify-content: space-between;
+   height: 7rem;
+   background: rgba(0, 0, 0, 0.5);
+   background: url("./../../img/featuringImg.jpg");
+
+  
+
+
+}
+
+.featText {
+   margin-top: 5.25rem;
+   margin-inline: 10px;
+   font-weight: 700;
+   color : black;
+   background-color: hsla(0, 0%, 98%, 0.468);
+   border-radius: 4px;
+   /* margin-top: 5px; */
+}
+.featText:last-child{
+   padding-inline: 10px;
+}

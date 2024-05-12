@@ -1,0 +1,38 @@
+.navbar {
+   display: flex;
+
+   justify-content: space-between;
+   height: 3.7rem;
+   /* padding: 1rem; */
+   /* width: 100%; */
+   background-color: #f1efef;
+}
+
+.logo {
+   padding: 0.7rem 0.6rem;
+}
+
+.search-components {
+   padding: 0.5rem;
+}
+
+
+.search-Box {
+   box-shadow: 0px 1px 8px grey;
+   background-color: white;
+   height: 2.6rem;
+   width: 19rem;
+   border-radius: 20px;
+   padding: 0.7rem;
+   outline: none;
+}
+
+.searchbtn {
+   position: relative;
+   left: 265px;
+   bottom: 35px;
+}
+
+/* .search-btn {
+   margin: 20px;
+} */

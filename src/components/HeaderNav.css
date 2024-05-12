@@ -1,0 +1,25 @@
+.header-dialog {
+   font-size: 40px;
+}
+
+.usernav {
+   display: flex;
+   justify-content: space-between;
+   padding: 5px 10px;
+}
+
+.hiuser {
+   font-size: 2rem;
+   font-weight: 600;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.userSvg {
+   border: 2px solid hsla(0, 0%, 0%, 0.527);
+   border-radius: 8px;
+   width: 3rem;
+}
+
+.icon-tabler-user {
+   margin: 9px;
+}

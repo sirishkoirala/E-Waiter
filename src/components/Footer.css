@@ -1,0 +1,26 @@
+.footer-div {
+   height: 7rem;
+   background-color: #f1efef;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.footerc__socials {
+   align-items: center;
+   display: flex;
+   gap: 2rem;
+   justify-content: center;
+   margin-top: 1rem
+}
+
+.footerc__socials a {
+   color: black;
+   font-size: 2.3rem
+}
+
+.footerc__socials a:hover {
+   -webkit-transform: scale(1.2);
+   transform: scale(1.2);
+   transition: all .2s ease-in-out
+}

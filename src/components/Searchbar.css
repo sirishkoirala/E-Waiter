@@ -1,0 +1,33 @@
+.searchBar {
+   display: flex;
+   justify-content: space-between;
+   padding: 20px 10px;
+
+}
+
+.searchContainer {
+   display: flex;
+   padding: 5px;
+   font-size: 22px;
+   /* width: 85%; */
+   flex: 1;
+   margin-right: 0.85rem;
+   border: 1.5px solid hsla(0, 0%, 0%, 0.472);
+   border-radius: 8px;
+}
+
+.searchField {
+
+   width: 100%;
+   outline: none;
+   padding-inline: 9px;
+}
+
+.icon-tabler-category {
+   margin: 9px;
+}
+
+.icon-tabler-search {
+   margin-top: 4px;
+   margin-left: 2px;
+}
