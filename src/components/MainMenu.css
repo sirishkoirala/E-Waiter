@@ -1,0 +1,57 @@
+.menuContainer {
+   display: flex;
+   justify-content: space-between;
+   padding-inline: 0.7rem;
+   align-items: center;
+   margin-bottom: 10px;
+}
+
+.menuImage {
+   height: 5rem;
+   width: 5rem;
+   border-radius: 10px;
+   font-size: 14px;
+   object-fit: cover;
+   border: 2px solid hsla(0, 0%, 0%, 0.548);
+   /* background-color: aquamarine; */
+}
+
+
+.menuItemDetaials {
+   height: 4rem;
+   width: 9rem;
+   /* background-color: aquamarine; */
+}
+
+.itemTitle {
+   font-weight: 500;
+   font-size: 0.90rem;
+   line-height: 1rem;
+}
+
+.AddToCartBtn {
+   height: 35px;
+   width: 80px;
+   font-size: 14px;
+   border: 2px solid hsla(0, 0%, 0%, 0.575);
+   border-radius: 8px;
+
+   align-items: center;
+   display: flex;
+   justify-content: center;
+}
+
+.icon-tabler-star {
+   font-size: px;
+}
+
+.itemRatingsContainer {
+   margin-top: 0.2rem;
+   margin-left: -0.08rem;
+}
+
+.ItemPrice {
+   font-size: 0.9rem;
+   font-weight: 400;
+   letter-spacing: 1px;
+}

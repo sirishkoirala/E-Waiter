@@ -19,7 +19,6 @@ const App = () => {
          {/* <Navbar /> */}
          <Location />
          <SlidingCategory />
-         <MainMenu />
          <Checkout />
          <OfferingAndSpecial />
          <Footer />
